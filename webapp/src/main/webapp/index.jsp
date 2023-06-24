@@ -10,6 +10,9 @@
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
 
+<label for="UserName"><b>UserName</b></label>
+    <input type="UserName" placeholder="Enter UserName" name="Username" required>
+
     <label for="Dob"><b>Dob</b></label>
     <input type="Dob" placeholder="Enter Dob" name="Dob" required>
 
