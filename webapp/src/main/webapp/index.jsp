@@ -13,9 +13,6 @@
 <label for="UserName"><b>UserName</b></label>
     <input type="UserName" placeholder="Enter UserName" name="Username" required>
 
-<label for="Userid"><b>Userid</b></label>
-    <input type="Userid" placeholder="Enter Userid" name="Userid" required>
-
     <label for="Dob"><b>Dob</b></label>
     <input type="Dob" placeholder="Enter Dob" name="Dob" required>
 
