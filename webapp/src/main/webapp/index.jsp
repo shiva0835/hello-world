@@ -7,6 +7,12 @@
     <label for="Name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" required>
 
+    <label for="middleame"><b>middleame</b></label>
+    <input type="middlename" placeholder="Enter middlename" name="middlename" required>
+
+   <label for="lastname"><b>lastname</b></label>
+    <input type="lastname" placeholder="Enter lastname" name="lastname" required>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
 
