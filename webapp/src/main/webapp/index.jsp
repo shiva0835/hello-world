@@ -13,6 +13,9 @@
     <label for="Dob"><b>Dob</b></label>
     <input type="Dob" placeholder="Enter Dob" name="Dob" required>
 
+    <label for="lastname"><b>lastname</b></label>
+    <input type="lastname" placeholder="Enter lastname" name="lastname" required>
+
     <label for="Email"><b>Email</b></label>
     <input type="Email" placeholder="Enter Email" name="Email" required>
 
