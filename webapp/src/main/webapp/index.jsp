@@ -4,8 +4,8 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="middleame"><b>middleame</b></label>
-    <input type="middlename" placeholder="Enter middlename" name="middlename" required>
+    <label for="name"><b>name</b></label>
+    <input type="name" placeholder="Enter name" name="name" required>
 
    <label for="lastname"><b>lastname</b></label>
     <input type="lastname" placeholder="Enter lastname" name="lastname" required>
