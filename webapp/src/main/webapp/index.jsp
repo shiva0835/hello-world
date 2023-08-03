@@ -7,6 +7,9 @@
     <label for="firstname"><b>firstname</b></label>
     <input type="firstname" placeholder="Enter firstname" name="firstname" required>
 
+      <label for="midname"><b>midname</b></label>
+    <input type="midname" placeholder="Enter midname" name="midname" required>
+
    <label for="lastname"><b>lastname</b></label>
     <input type="lastname" placeholder="Enter lastname" name="lastname" required>
 
