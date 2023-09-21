@@ -22,8 +22,8 @@
     <label for="Email"><b>Email</b></label>
     <input type="Email" placeholder="Enter Email" name="Email" required>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+    <label for="psw-confirm"><b>confirm Password</b></label>
+    <input type="password" placeholder="confirm Password" name="psw-confirm" required>
 
     <label>
       <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
