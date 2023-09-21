@@ -19,8 +19,8 @@
    <label for="dob"><b>dob</b></label>
     <input type="dob" placeholder="Enter dob" name="dob" required>
 
-    <label for="Email address"><b>Email address</b></label>
-    <input type="Email address" placeholder="Enter Email address" name="Email address" required>
+    <label for="Email"><b>Email</b></label>
+    <input type="Email" placeholder="Enter Email" name="Email" required>
 
     <label for="psw-confirm"><b>confirm Password</b></label>
     <input type="password" placeholder="confirm Password" name="psw-confirm" required>
