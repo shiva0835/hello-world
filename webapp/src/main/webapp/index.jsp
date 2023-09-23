@@ -13,6 +13,9 @@
    <label for="lastname"><b>lastname</b></label>
     <input type="lastname" placeholder="Enter lastname" name="lastname" required>
 
+    <label for="user id"><b>user id</b></label>
+    <input type="user id" placeholder="Enter user id" name="user id" required>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
 
